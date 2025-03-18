@@ -27,14 +27,6 @@ The vision for this project is to revolutionize the way gamers interact with in-
 - **Ownership Transparency**: Transparent ownership tracking and history through blockchain technology, ensuring the authenticity of digital assets.
 - **Decentralized Events**: Event emission for every skin transfer, ensuring transparency and traceability of ownership changes.
 - **Secure Platform**: The platform leverages the Aptos blockchain, ensuring fast and secure transactions for the minting and transferring of NFTs.
-```
-
-## Explanation:
-- **Project Title**: "Gaming Skins as NFTs" gives the project a clear identity.
-- **Project Description**: Provides a high-level summary of the project, explaining the integration of NFTs with gaming skins.
-- **Project Vision**: Outlines the long-term goals and aspirations of the platform.
-- **Future Scope**: Describes potential enhancements and the direction in which the project might evolve.
-- **Key Features**: Highlights the primary functionalities provided by the smart contract and platform, including creating, owning, and transferring gaming skins as NFTs.
 
 ##contract address:
 0x088cf7ecaa83729f00f91731d297fccea3a1bea74c0edc67e9157745bc46eaf3
