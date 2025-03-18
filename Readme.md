@@ -29,7 +29,7 @@ The vision for this project is to revolutionize the way gamers interact with in-
 - **Secure Platform**: The platform leverages the Aptos blockchain, ensuring fast and secure transactions for the minting and transferring of NFTs.
 ```
 
-### Explanation:
+## Explanation:
 - **Project Title**: "Gaming Skins as NFTs" gives the project a clear identity.
 - **Project Description**: Provides a high-level summary of the project, explaining the integration of NFTs with gaming skins.
 - **Project Vision**: Outlines the long-term goals and aspirations of the platform.
