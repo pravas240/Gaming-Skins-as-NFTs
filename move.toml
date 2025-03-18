@@ -1,0 +1,16 @@
+[package]
+name = "gameingskills"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule =
+0x9bb743b9f3df8e602ec1060e3024c9cf90217593668d4158e9539d7cb6c9a174
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
