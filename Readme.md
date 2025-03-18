@@ -28,7 +28,7 @@ The vision for this project is to revolutionize the way gamers interact with in-
 - **Decentralized Events**: Event emission for every skin transfer, ensuring transparency and traceability of ownership changes.
 - **Secure Platform**: The platform leverages the Aptos blockchain, ensuring fast and secure transactions for the minting and transferring of NFTs.
 
-##contract address:
+## Contract address:
 0x088cf7ecaa83729f00f91731d297fccea3a1bea74c0edc67e9157745bc46eaf3
 ![image](https://github.com/user-attachments/assets/ef32d4ae-3a3e-4e07-9798-298752a605a2)
 
